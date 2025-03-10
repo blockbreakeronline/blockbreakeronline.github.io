@@ -56,5 +56,6 @@ If you love fast-paced, exciting games, Google Block Breaker is for you! It’s 
 💥 Challenge yourself today:
 
 👉 Play [Google Block Breaker](https://google-blockbreaker.github.io/) Now!
+👉 Also Play [Doodle Cricket](https://doodlecricket.org) Now!
 
 Don't forget to share it with friends and see who gets the highest score! 🎉
