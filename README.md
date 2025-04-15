@@ -1,7 +1,7 @@
 # Google Block Breaker: The Ultimate Online Arcade Game You Can’t Stop Playing
 You know that feeling when you’re scrolling endlessly, bored out of your mind, and just need something actually fun to do? Enter Google Block Breaker—the browser game that’s like a shot of nostalgia mixed with pure, addictive fun. Think Breakout or Arkanoid, but smoother, faster, and way more satisfying.
 
-🎮 Play Now: [Google Block Breaker](https://google-blockbreaker.github.io/)
+🎮 Play Now: [Google Block Breaker](https://blokbreaker.com)
 
 ---
 
@@ -34,7 +34,7 @@ If you enjoy arcade-style games, you’re going to love Google Block Breaker! He
 
 Getting started is simple:
 
-1️⃣ Go to [Google Block Breaker](https://google-blockbreaker.github.io/)
+1️⃣ Go to [Google Block Breaker](https://blokbreaker.com)
 2️⃣ Move the paddle left or right to keep the ball in play
 3️⃣ Break all the blocks to clear the level
 4️⃣ Use power-ups to boost your score
@@ -55,7 +55,7 @@ If you love fast-paced, exciting games, Google Block Breaker is for you! It’s 
 
 💥 Challenge yourself today:
 
-👉 Play [Google Block Breaker](https://google-blockbreaker.github.io/) Now!
+👉 Play [Google Block Breaker](https://blokbreaker.com) Now!
 👉 Also Play [Doodle Cricket](https://doodlecricket.org) Now!
 
 Don't forget to share it with friends and see who gets the highest score! 🎉
