@@ -57,5 +57,6 @@ If you love fast-paced, exciting games, Google Block Breaker is for you! It’s 
 
 👉 Play [Google Block Breaker](https://blokbreaker.com) Now!
 👉 Also Play [Doodle Cricket](https://doodlecricket.org) Now!
+Check Your Vehicle Insurance Status here [askMID Insurance](https://askmidinsurance.org/)
 
 Don't forget to share it with friends and see who gets the highest score! 🎉
